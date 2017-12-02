@@ -1,0 +1,3 @@
+/home/nvidia/camera control/build/CMakeFiles/edit_cache.dir
+/home/nvidia/camera control/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/camera control/build/CMakeFiles/ZED_Camera_Control.dir

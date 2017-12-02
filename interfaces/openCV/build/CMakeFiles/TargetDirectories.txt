@@ -1,0 +1,3 @@
+/home/nvidia/ZED_explorer/interfaces/openCV/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/ZED_explorer/interfaces/openCV/build/CMakeFiles/edit_cache.dir
+/home/nvidia/ZED_explorer/interfaces/openCV/build/CMakeFiles/ZED_with_OpenCV.dir
